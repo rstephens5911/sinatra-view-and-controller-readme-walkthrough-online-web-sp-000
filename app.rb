@@ -17,5 +17,5 @@ class App < Sinatra::Base
       'Malala Yousafzai', 'Sojourner Truth']
       erb :friends
   end
-  
+
 end
